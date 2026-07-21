@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -40,9 +41,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
