@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [1260-shift-2d-grid](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -73,8 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
