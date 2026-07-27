@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
