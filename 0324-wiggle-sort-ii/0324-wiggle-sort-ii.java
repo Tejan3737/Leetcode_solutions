@@ -4,10 +4,11 @@ class Solution {
         int n = nums.length;
         int[] ans=nums.clone();
         int index=0;
-        int left=(n+1)/2;
-        int right=n;
+        int left=(n-1)/2;
+        int right=n-1;
         for(int i = 0 ; i<n ; i++){
-            nums[i] = (i%2==0)?ans[--left]:ans[--right];
+            nums[i] = (i%2==0)?ans[left--]:ans[right--];
         }
     }
+
 }
