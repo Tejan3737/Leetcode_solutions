@@ -185,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0037-sudoku-solver) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
