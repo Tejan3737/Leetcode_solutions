@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Bit Manipulation
