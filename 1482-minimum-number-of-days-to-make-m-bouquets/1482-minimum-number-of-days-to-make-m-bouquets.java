@@ -2,6 +2,7 @@ class Solution {
     public boolean count(int[] bloomDay , int day , int flowers,int m){
         int count = 0;
         int subcount = 0;
+        int i =0;
         for(int bd : bloomDay){
             if(bd<=day){
                 subcount++;
@@ -11,10 +12,14 @@ class Solution {
                 }
             }else{
                 subcount=0;
+                if ((m - count) * flowers > bloomDay.length - i - 1){
+                    break;
+                }
             }
             if(count>=m){
                 break;
             }
+            i++;
         }
         return count>=m;
     }
