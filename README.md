@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
