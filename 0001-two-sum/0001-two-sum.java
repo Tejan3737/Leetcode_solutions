@@ -6,8 +6,8 @@ class Solution {
             int first = nums[i];
             int second = target-nums[i];
             if(hm.containsKey(second)){
-                ans[0] = i;
-                ans[1] = hm.get(second);
+                ans[1] = i;
+                ans[0] = hm.get(second);
                 return ans;
             }
             hm.put(first,i);
