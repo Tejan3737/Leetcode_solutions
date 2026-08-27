@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
