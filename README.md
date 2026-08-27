@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
