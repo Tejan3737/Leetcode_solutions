@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0409-longest-palindrome) |
