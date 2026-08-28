@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0137-single-number-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
