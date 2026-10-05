@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
