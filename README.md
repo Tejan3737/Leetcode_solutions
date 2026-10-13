@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0832-flipping-an-image](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
+| [0832-flipping-an-image](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
+| [0832-flipping-an-image](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Tejan3737/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/Tejan3737/Leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tejan3737/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
